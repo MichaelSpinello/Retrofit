@@ -3,13 +3,14 @@ package info.androidhive.retrofit.model;
 import com.google.gson.annotations.SerializedName;
 
 import java.util.List;
-//modifica nel branch4
-//jhfjjb
+//bvcfc
 
 
 
 
-//lkjhgfcxch
+//lkjhgfcxchù
+//jkjkjnlk
+//hjghvj
 
 public class MoviesResponse {
     @SerializedName("page")
