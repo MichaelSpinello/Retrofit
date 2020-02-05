@@ -3,34 +3,30 @@ package info.androidhive.retrofit.model;
 import com.google.gson.annotations.SerializedName;
 
 import java.util.List;
-//Adesso Scrivo bene
+//branch 2
+//Adesso Scrivo benegfdgdfgd
 
-public class MoviesResponse {
+public class MoviesResponse {ggdfg
     @SerializedName("page")
     private int page;
-    @SerializedName("results")
-    private List<Movie> results;
-    @SerializedName("total_results")
-    private int totalResults;
-    @SerializedName("total_pages")
-    private int totalPages;
+    @Serial
+    gf//isdhsduidgaslddondoisdg
 
     public int getPage() {
         return page;
     }
-
-    public void setPage(int page) {
-        this.page = page;
+fgfd
+    public void setPage(int page)gfdggthis.page = page;
     }
 
     public List<Movie> getResults() {
         return results;
     }
 
-    public void setResults(List<Movie> results) {
+    public void setResults(dggList<Movie> results) {
         this.results = results;
     }
-
+gf
     public int getTotalResults() {
         return totalResults;
     }
