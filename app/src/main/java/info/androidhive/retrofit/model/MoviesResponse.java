@@ -28,21 +28,7 @@ public class MoviesResponse {
         return page;
     }
 
-    public void setPage(int page) {
-        this.page = page;
-    }
-
-    public List<Movie> getResults() {
-        return results;
-    }
-
-    public void setResults(List<Movie> results) {
-        this.results = results;
-    }
-
-   // public int getTotalResults() {
-        //return totalResults;
-   // }
+//BRANCH3
 
     public void setTotalResults(int totalResults) {
       //  this.totalResults = totalResults;
