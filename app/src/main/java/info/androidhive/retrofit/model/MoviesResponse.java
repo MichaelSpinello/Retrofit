@@ -3,7 +3,7 @@ package info.androidhive.retrofit.model;
 import com.google.gson.annotations.SerializedName;
 
 import java.util.List;
-//bvcfc
+//Adesso Scrivo bene
 
 public class MoviesResponse {
     @SerializedName("page")
